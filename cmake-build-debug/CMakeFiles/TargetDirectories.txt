@@ -1,0 +1,3 @@
+C:/Users/ddfgd/OneDrive/ClionProjects/Projects/Project 2 - Image Processing/Milestone 2/Image Processing Spring 2024 - Milestone 2/cmake-build-debug/CMakeFiles/milestone2.dir
+C:/Users/ddfgd/OneDrive/ClionProjects/Projects/Project 2 - Image Processing/Milestone 2/Image Processing Spring 2024 - Milestone 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ddfgd/OneDrive/ClionProjects/Projects/Project 2 - Image Processing/Milestone 2/Image Processing Spring 2024 - Milestone 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
